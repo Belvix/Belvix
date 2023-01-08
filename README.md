@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Belvix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belvix)
+![Belvix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belvix)\n
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belvix)
 
 <!--
